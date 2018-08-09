@@ -1,0 +1,98 @@
+nav{
+	font-family: Calibri;
+	width: 100%;
+	height: 250px;
+	text-align: center;
+	font-size: 3vw;	
+}
+.a1{
+	width: 320px;
+	height: 600px;
+	float: left;
+
+}
+.laranja{
+	width: 300px;
+	height: 500px;
+	padding: 10px;	
+	display: inline-block;
+}
+
+
+.a2{
+	width: 620px;
+	height: 500px;
+	float: right;
+
+
+}
+.slide{
+	width: 600px;
+	height: 300px;
+	padding: 10px;	
+}
+
+.a3{
+	width: 620px;
+	height: 500px;
+	float: right;
+
+
+}
+.sandalia{
+	width: 600px;
+	height: 300px;
+	padding: 10px;	
+}
+.m1 a{
+	list-style-type: none;
+	color: #fff;
+	text-decoration: none;
+}
+.m1 li{
+	display: inline;
+}
+.m1 li a:visited{
+	color: #fff;
+	text-decoration: none;
+
+}
+@media screen and (max-width: 800px) {
+	body{
+		background: #F6CED8;
+		width: 100%;
+	}
+	nav{
+	font-family: Calibri;
+	width: 50%;
+	height: 100px;
+	text-align: center;
+	font-size:40px;	
+}
+.flor{
+	background: #F6CED8;
+}
+.a1{
+	width: 100%;
+	display:block;
+}
+.laranja{
+	width: 100%;
+	padding: 10px;	
+	display:block;
+}
+.m1 a{
+	list-style-type: none;
+	color: #fff;
+	text-decoration: none;
+}
+.m1 li{
+	display: inline;
+}
+.m1 li a:visited{
+	color: #fff;
+	text-decoration: none;
+
+}
+   /*estilos*/
+}

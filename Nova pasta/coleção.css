@@ -1,0 +1,34 @@
+coleção.css
+nav{
+	font-family: Calibri;
+	width: 100%;
+	height: 250px;
+	text-align: center;
+	font-size:80px;	
+}
+.a1{
+	width: 320px;
+	height: 600px;
+	float: left;
+
+}
+.laranja{
+	width: 300px;
+	height: 500px;
+	padding: 10px;	
+	display: inline-block;
+}
+
+
+.a2{
+	width: 620px;
+	height: 500px;
+	float: right;
+
+
+}
+.fusin{
+	width: 600px;
+	height: 300px;
+	padding: 10px;	
+}
